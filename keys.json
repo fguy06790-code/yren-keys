@@ -1,7 +1,8 @@
 {
   "yren_key_list": 1,
-  "updated": 1791933406,
+  "updated": 1791934463,
   "keys": [
-    {"expires":0,"id":"89bce1513644bed3d67c9b3c49447c777593a2edbf8551a46e93c1d1a9e400de","made":1791933406,"name":"NAIL","pc":"393439AF19289BE9","tier":"owner"}
+    {"expires":0,"id":"89bce1513644bed3d67c9b3c49447c777593a2edbf8551a46e93c1d1a9e400de","made":1791933406,"name":"NAIL","pc":"393439AF19289BE9","tier":"owner"},
+    {"expires":0,"id":"8d4e1f939f5c307fd74bfa4a434cdf048024171c6b764256fbf4b9da4d6fc523","made":1791934463,"name":"wow","pc":"","tier":"premium"}
   ]
 }
